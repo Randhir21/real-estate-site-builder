@@ -1,0 +1,82 @@
+[
+  {
+    "layout": "layout1",
+    "projectName": "Emerald Heights",
+    "projectAddress": "Sector 150, Noida",
+    "projectType": "2, 3 & 4 BHK Apartments",
+    "startingPrice": "1.85 Cr*",
+    "keyHighlights": ["Golf Course View", "Smart Home Automation", "Olympic-size Pool"]
+  },
+  {
+    "layout": "layout2",
+    "projectName": "The Grand Arch",
+    "projectAddress": "Sector 75, Noida",
+    "projectType": "1, 2 & 3 BHK Apartments",
+    "startingPrice": "1.20 Cr*",
+    "keyHighlights": ["Near Metro Station", "Rooftop Garden", "24/7 Concierge"]
+  },
+  {
+    "layout": "layout3",
+    "projectName": "Skyline Residencies",
+    "projectAddress": "Sector 128, Noida",
+    "projectType": "3 & 4 BHK Luxury Suites",
+    "startingPrice": "3.50 Cr*",
+    "keyHighlights": ["Private Lift Lobby", "Central Air Conditioning", "Yoga Deck"]
+  },
+  {
+    "layout": "layout1",
+    "projectName": "Urban Square",
+    "projectAddress": "Sector 62, Noida",
+    "projectType": "1 & 2 BHK Studio Apartments",
+    "startingPrice": "85 L*",
+    "keyHighlights": ["IT Park Proximity", "Fully Furnished Options", "High-speed Wi-Fi"]
+  },
+  {
+    "layout": "layout2",
+    "projectName": "Oakwood Enclave",
+    "projectAddress": "Sector 143, Noida",
+    "projectType": "2, 3 & 4 BHK Apartments",
+    "startingPrice": "2.10 Cr*",
+    "keyHighlights": ["EV Charging Stations", "Pet-friendly Park", "Organic Garden"]
+  },
+  {
+    "layout": "layout3",
+    "projectName": "Sapphire Towers",
+    "projectAddress": "Sector 107, Noida",
+    "projectType": "3, 4 & 5 BHK Penthouses",
+    "startingPrice": "4.25 Cr*",
+    "keyHighlights": ["Double Height Ceilings", "Infinity Edge Pool", "Home Theatre"]
+  },
+  {
+    "layout": "layout1",
+    "projectName": "The Meadows",
+    "projectAddress": "Sector 150, Noida",
+    "projectType": "2 & 3 BHK Green Homes",
+    "startingPrice": "1.65 Cr*",
+    "keyHighlights": ["80% Open Green Space", "Solar Power Grid", "Rainwater Harvesting"]
+  },
+  {
+    "layout": "layout2",
+    "projectName": "Ivory Court",
+    "projectAddress": "Sector 78, Noida",
+    "projectType": "2 & 3 BHK Apartments",
+    "startingPrice": "1.45 Cr*",
+    "keyHighlights": ["Multi-tier Security", "Sports Academy", "Clubhouse Access"]
+  },
+  {
+    "layout": "layout3",
+    "projectName": "Regent Plaza",
+    "projectAddress": "Sector 94, Noida",
+    "projectType": "4 BHK Ultra-Luxury",
+    "startingPrice": "6.80 Cr*",
+    "keyHighlights": ["River View", "Italian Marble Flooring", "Private Splash Pool"]
+  },
+  {
+    "layout": "layout1",
+    "projectName": "Metro Hub",
+    "projectAddress": "Sector 52, Noida",
+    "projectType": "1, 2 & 3 BHK Apartments",
+    "startingPrice": "95 L*",
+    "keyHighlights": ["Walkable to Metro", "Shopping Mall Nearby", "Low Maintenance"]
+  }
+]
